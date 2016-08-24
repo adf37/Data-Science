@@ -1,0 +1,1 @@
+This project is a recommender system based on similiarity algorithms to assess similiarity between one or more users. Movies rated on a scale of 1 to 5 are compared to similiar users to recommend a score for one user based on their weighted similiarity score to another user.
