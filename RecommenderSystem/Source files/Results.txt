@@ -1,0 +1,37 @@
+MYRESULTS Training = hw2.input.tab
+
+MYRESULTS Testing = hw2.input_actual.tab
+
+MYRESULTS Algorithm = average
+
+MYRESULTS RMSE = 0.7984359711
+
+
+
+MYRESULTS Training = hw2.input.tab
+
+MYRESULTS Testing = hw2.input_actual.tab
+
+MYRESULTS Algorithm = euclidean
+
+MYRESULTS RMSE = 0.8716424855
+
+
+
+MYRESULTS Training = hw2.input.tab
+
+MYRESULTS Testing = hw2.input_actual.tab
+
+MYRESULTS Algorithm = pearson
+
+MYRESULTS RMSE = 1.459972084
+
+
+
+MYRESULTS Training = hw2.input.tab
+
+MYRESULTS Testing = hw2.input_actual.tab
+
+MYRESULTS Algorithm = cosine
+
+MYRESULTS RMSE = 1.553271613
